@@ -86,7 +86,8 @@ Step 7: Finalize and Export
 7.3 Prepare a brief presentation if required (optional)
 
 # Output:
-```https://github.com/HemalishaTagore/PROMPT-ENGINEERING-EX-NO-1/blob/main/LAB%20ASSIGNMENT-1.pdf```
+
+[LAB ASSIGNMENT-1.pdf]
 
 # Result:
 To Comprehensive Report on the Fundamentals of Generative AI and Large Language Models is executed successfully.
