@@ -87,7 +87,8 @@ Step 7: Finalize and Export
 
 # Output:
 
-[LAB ASSIGNMENT-1.pdf]
+
+[LAB ASSIGNMENT-1.pdf](https://github.com/user-attachments/files/24253503/LAB.ASSIGNMENT-1.pdf)
 
 # Result:
 To Comprehensive Report on the Fundamentals of Generative AI and Large Language Models is executed successfully.
